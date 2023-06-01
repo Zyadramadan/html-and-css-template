@@ -472,7 +472,6 @@ header .links ul li:hover a {
   font-size: 30px;
   font-weight: 800;
   color: var(--secondary-color);
-  letter-spacing: -2px;
   margin-bottom: 15px;
 }
 
